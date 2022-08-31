@@ -10,6 +10,8 @@ Actually, my intention wasnt to make, at this time, a fun and enjoyable game. I'
  
 Down below you can check the entire project's flowchart :point_down::point_down:
 
+![flowchart](https://raw.githubusercontent.com/JonasRodriguesB/Random-Password-Discovery-Game-1.0/main/flowchart.png)
+
 ## Descrição (Português-br)
 
 É um simples jogo de descoberta de senhas que codifiquei para praticar algumas estruturas de controle condicional e o fluxo entre elas.
@@ -19,3 +21,5 @@ O programa irá gerar senhas aleatórias e o usuário tem que adivinhar. O núme
 Na verdade, minha intenção não era fazer, neste momento, um jogo divertido e agradável. Decidi usar esse conhecimento para fazer uma versão melhor desse jogo que também publicarei em breve.
  
 Abaixo você confere todo o fluxograma do projeto :point_down::point_down:
+
+![fluxograma](https://raw.githubusercontent.com/JonasRodriguesB/Random-Password-Discovery-Game-1.0/main/fluxograma.png)
