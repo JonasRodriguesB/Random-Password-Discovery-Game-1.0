@@ -1,6 +1,6 @@
 # Random Password Discovery Game 1.0
 
-:![](https://www.pngrepo.com/png/33352/180/lock.png):
+<img src="https://www.pngrepo.com/png/33352/180/lock.png" height="50">
 
 ## Description (English)
 
