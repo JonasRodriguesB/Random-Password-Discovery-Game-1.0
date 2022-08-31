@@ -8,9 +8,7 @@ The program will generate random passwords and the user have to guess. The numbe
 
 Actually, my intention wasnt to make, at this time, a fun and enjoyable game. I'd decide to use this knowledge to make a better version of this game that I'll also publish soon.
  
-Down below you can check the entire project's flowchart :point_down::point_down:
-
-![flowchart](https://raw.githubusercontent.com/JonasRodriguesB/Random-Password-Discovery-Game-1.0/main/flowchart.png)
+[Click Here](https://github.com/JonasRodriguesB/Random-Password-Discovery-Game-1.0/blob/main/flowchart.png) to check the entire project's flowchart.
 
 ## Descrição (Português-br)
 
@@ -20,6 +18,4 @@ O programa irá gerar senhas aleatórias e o usuário tem que adivinhar. O núme
 
 Na verdade, minha intenção não era fazer, neste momento, um jogo divertido e agradável. Decidi usar esse conhecimento para fazer uma versão melhor desse jogo que também publicarei em breve.
  
-Abaixo você confere todo o fluxograma do projeto :point_down::point_down:
-
-![fluxograma](https://raw.githubusercontent.com/JonasRodriguesB/Random-Password-Discovery-Game-1.0/main/fluxograma.png)
+[Clique Aqui](https://github.com/JonasRodriguesB/Random-Password-Discovery-Game-1.0/blob/main/fluxograma.png) para checar o fluxograma completo do projeto.
