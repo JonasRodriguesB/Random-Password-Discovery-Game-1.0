@@ -1,5 +1,7 @@
 # Random Password Discovery Game 1.0
 
+![](https://www.pngrepo.com/png/33352/180/lock.png)
+
 ## Description (English)
 
 It's a simple game of password discovering that I coded to pratice some conditional control structures and the flow between them.
