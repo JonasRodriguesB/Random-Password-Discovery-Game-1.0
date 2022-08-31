@@ -1,2 +1,22 @@
 # Random Password Discovery Game 1.0
+***
+
+## Description (English)
+
+It's a simple game of password discovering that I coded to pratice some conditional control structures and the flow between them.
+
+The program will generate random passwords and the user have to guess. The number of password's digits depends on difficult the user has choosen. While trying to guess, the program will provide some tips to help the user.
+
+Actually, my intention wasnt to make, at this time, a fun and enjoyable game. I'd decide to use this knowledge to make a better version of this game that I'll also publish soon.
  
+Down below you can check the entire project's flowchart :point_down::point_down:
+
+## Descrição (Português-br)
+
+É um simples jogo de descoberta de senhas que codifiquei para praticar algumas estruturas de controle condicional e o fluxo entre elas.
+
+O programa irá gerar senhas aleatórias e o usuário tem que adivinhar. O número de dígitos da senha depende da dificuldade que o usuário escolheu. Ao tentar adivinhar, o programa fornecerá algumas dicas para ajudar o usuário.
+
+Na verdade, minha intenção não era fazer, neste momento, um jogo divertido e agradável. Decidi usar esse conhecimento para fazer uma versão melhor desse jogo que também publicarei em breve.
+ 
+Abaixo você confere todo o fluxograma do projeto :point_down::point_down:
